@@ -1,0 +1,31 @@
+body {
+  background-color: #e7f6e7; /* verde suave */
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+}
+
+h2 {
+  color: #2e7d32;
+}
+
+p {
+  max-width: 800px;
+  margin: 0 auto 20px auto;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 90%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  color: #388e3c;
+  font-weight: bold;
+}
